@@ -105,15 +105,6 @@ All libraries (Matplotlib, Seaborn, Plotly, Pandas, NumPy) are pre-installed on 
 2. **File → Upload notebook** → select the `.ipynb` file
 3. Hit **Runtime → Run All**
 
-### Option 3 — Run Locally
-
-```bash
-git clone https://github.com/YOUR_USERNAME/data-visualization-python.git
-cd data-visualization-python
-pip install -r requirements.txt
-jupyter notebook data_visualization_python.ipynb
-```
-
 ---
 
 ## 🧭 The Chart Chooser
