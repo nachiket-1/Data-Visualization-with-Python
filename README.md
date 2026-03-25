@@ -85,25 +85,9 @@ Every section covers a different chart type, explains *when* to use it (not just
 
 ---
 
-## ⚡ Quick Start
+## ⚡ Open Notebook in Kaggle
 
-### Option 1 — Kaggle (Recommended, Zero Setup)
-
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com)
-
-1. Go to [kaggle.com/code](https://www.kaggle.com/code) → **New Notebook**
-2. **File → Import Notebook** → Upload `data_visualization_python.ipynb`
-3. Click **Run All** ▶️
-
-All libraries (Matplotlib, Seaborn, Plotly, Pandas, NumPy) are pre-installed on Kaggle!
-
-### Option 2 — Google Colab
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
-
-1. Go to [colab.research.google.com](https://colab.research.google.com)
-2. **File → Upload notebook** → select the `.ipynb` file
-3. Hit **Runtime → Run All**
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nachikettalekar/data-visualization-with-python))
 
 ---
 
