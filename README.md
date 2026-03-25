@@ -87,7 +87,7 @@ Every section covers a different chart type, explains *when* to use it (not just
 
 ## ⚡ Open Notebook in Kaggle
 
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nachikettalekar/data-visualization-with-python))
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nachikettalekar/data-visualization-with-python)
 
 ---
 
